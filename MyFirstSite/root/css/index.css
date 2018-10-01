@@ -1,0 +1,18 @@
+body {
+background-color: powderblue;
+}
+h1 {
+color: blue;
+font-family: verdana;
+font-size: 300%;
+text-align: center;
+}
+h2 {
+color: black;
+font-family: verdana;
+font-size: 120%;
+text-align: center;
+}
+p {
+color: red;
+}
